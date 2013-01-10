@@ -1,0 +1,12 @@
+canvas {
+    border:             solid 6px #AAA;
+    background-color:   #222;
+    padding-left:       0;
+    padding-right:      0;
+    margin-left:        auto;
+    margin-right:       auto;
+    display:            block;
+}
+body {
+    background-color: #DDD;
+}
