@@ -47,7 +47,3 @@ if ( isset( $_GET['highscores']) )
 
     print json_encode($json);
 }
-
-$_SERVER['HTTP_X_FORWARDED_FOR'];
-
-
